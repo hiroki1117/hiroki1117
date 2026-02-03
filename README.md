@@ -25,7 +25,6 @@ hiroki = Engineer
   }
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -64,8 +63,6 @@ hiroki = Engineer
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -77,23 +74,17 @@ hiroki = Engineer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiroki1117&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7"/>
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hiroki1117&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7"/>
 </div>
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiroki1117&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true"/>
 </div>
-
----
 
 <div align="center">
 
@@ -103,10 +94,5 @@ hiroki = Engineer
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiroki1117&label=Profile%20Views&color=6AD3F7&style=for-the-badge"/>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
